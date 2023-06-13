@@ -40,34 +40,22 @@ When using this template, please don’t forget to:
   installer](https://cran.rstudio.com/bin/windows/base/old/4.3.0/R-4.3.0-win.exe)
   is recommended.
 
-<!-- -->
-
 - [Rstudio
   Desktop](https://www.rstudio.com/products/rstudio/download/#download):
   Although not strictly necessary, it is recommended to install the
-  Rstudio IDE; for strict reproducibility, use build [2023.03.1+446 for
+  Rstudio IDE; for better reproducibility, use build [2023.06.0+421 for
   Windows
-  10/11](https://download1.rstudio.org/electron/windows/RStudio-2023.03.1-446.exe).
-
-<!-- -->
-
-- [Quarto publishing system](https://quarto.org/): An additional
-  component used by Rstudio to generate and publish literate computing
-  outputs. For strict reproducibility please use build 1.3.353; On
-  Windows, use [the 64-bit
-  installer](https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.353/quarto-1.3.353-win.msi).
-
-<!-- -->
+  10/11](https://download1.rstudio.org/electron/windows/RStudio-2023.06.0-421.exe).
 
 - [Git client](https://git-scm.com/download): Install the Git client in
   order to be able to clone locally the project repository. On Windows,
   use [the 64-bit Windows
-  installer](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe).
+  installer](https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-64-bit.exe).
 
 ## Installing the project locally
 
 This project is hosted as a GitHub repository. It can be cloned as a
-local Git repository following [these
+local git repository following [these
 instructions](https://book.cds101.com/using-rstudio-server-to-clone-a-github-repo-as-a-new-project.html#step---2)
 (steps 2 through 7). Note that this will create a local copy of
 (‘clone’) the GitHub repository as an Rstudio project in the folder
