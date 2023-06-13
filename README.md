@@ -24,8 +24,8 @@ When using this template, please don’t forget to:
   > ## Components
   > 
   > This project makes use of the
-  > [rproj-template](https://github.com/DaniMori/rproj-template) Github
-  > template created by [Daniel Morillo](https://github.com/DaniMori)
+  > [barebones-rproj-template](https://github.com/DaniMori/barebones-rproj-template)
+  > Github template created by [Daniel Morillo](https://github.com/DaniMori)
   > and licensed under the [Creative Commons Attribution 4.0
   > International
   > license](https://creativecommons.org/licenses/by/4.0/).
