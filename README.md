@@ -1,7 +1,7 @@
 
 # Respository `<repository-name>`
 
-<repository-description>
+\<repository-description\>
 
 # License
 
@@ -21,6 +21,8 @@ When using this template, please don’t forget to:
   appropriate credit; please do so by including the following in the
   “License” section of the README.md file in your own project:
 
+  > ## Components
+  > 
   > This project makes use of the
   > [rproj-template](https://github.com/DaniMori/rproj-template) Github
   > template created by [Daniel Morillo](https://github.com/DaniMori)
@@ -115,13 +117,6 @@ The file structure of this repository is as follows:
     |--- dat          (To store input datasets; must NEVER be checked-in to Github)
     |
     |--- doc          (To store important documentation of the project)
-    |    |
-    |    |--- minutes (To store meeting minutes)
-    |
-    |--- notebooks    (Notebooks to explore data and test processes live here)
-    |
-    |--- output       (Processing outputs; files must be individually "checked-in"
-    |                 when necessary)
     |
     |--- R            (R functions created for this project live here)
     |
