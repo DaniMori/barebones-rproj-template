@@ -74,7 +74,9 @@ instructions](https://book.cds101.com/using-rstudio-server-to-clone-a-github-rep
 specified. The URL that must be entered into the `Repository URL` text
 box is:
 
-    <repository_url>
+```
+<repository_url>
+```
 
 After cloning the repository, the Rstudio project will open
 automatically in the Rstudio IDE. If it doesn’t, or you want to return
@@ -119,19 +121,21 @@ Then, restore the environment following the previous instructions.
 
 The file structure of this repository is as follows:
 
-    <repository-folder>
-    |
-    |--- dat          (To store input datasets; must NEVER be checked-in to Github)
-    |
-    |--- doc          (To store important documentation of the project)
-    |
-    |--- R            (R functions created for this project live here)
-    |
-    |--- renv         (System library necesssary for `renv` to work. DON'T TOUCH)
-    |
-    |--- src          (Source scripts that implement the main processes)
-    |
-    |--- www          (Project assets, e.g., images, bibliography files, etc.)
+```
+<repository-folder>
+|
+|--- dat          (To store input datasets; must NEVER be checked-in to Github)
+|
+|--- doc          (To store important documentation of the project)
+|
+|--- R            (R functions created for this project live here)
+|
+|--- renv         (System library necesssary for `renv` to work. DON'T TOUCH)
+|
+|--- src          (Source scripts that implement the main processes)
+|
+|--- www          (Project assets, e.g., images, bibliography files, etc.)
+```
 
 Use the folders as indicated to store the different files and generate
 the outputs of the processes.
