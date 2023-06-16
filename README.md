@@ -21,7 +21,7 @@ When using this template, please don’t forget to:
   appropriate credit; please do so by including the following in the
   “License” section of the README.md file in your own project:
 
-  > ## Components
+  > ## Attributions
   > 
   > This project makes use of the
   > [barebones-rproj-template](https://github.com/DaniMori/barebones-rproj-template)
